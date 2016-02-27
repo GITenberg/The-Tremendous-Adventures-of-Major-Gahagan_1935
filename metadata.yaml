@@ -1,0 +1,31 @@
+_repo: The-Tremendous-Adventures-of-Major-Gahagan_1935
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+description: As soon as I entered the tents a host of menials sprang forward, some
+  to ease me of my armour, some to offer me refreshments, some with hookahs, attar
+  of roses (in great quart bottles), and the thousand delicacies of Eastern life.
+  I motioned them away. ""I will wear my armour,"" said I; ""I shall go forth to-night.
+  Carry my duty to the princess, and say I grieve that to-night I have not the time
+  to see her.
+gutenberg_issued: '1999-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+- !lcc 'PR'
+title: The Tremendous Adventures of Major Gahagan
+url: http://www.gutenberg.org/ebooks/1935
