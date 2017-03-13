@@ -1,5 +1,8 @@
 _repo: The-Tremendous-Adventures-of-Major-Gahagan_1935
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -17,6 +20,8 @@ description: As soon as I entered the tents a host of menials sprang forward, so
   I motioned them away. ""I will wear my armour,"" said I; ""I shall go forth to-night.
   Carry my duty to the princess, and say I grieve that to-night I have not the time
   to see her.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1935#The-Tremendous-Adventures-of-Major-Gahagan
 gutenberg_issued: '1999-10-01'
 gutenberg_type: Text
 identifiers:
