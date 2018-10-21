@@ -1,5 +1,5 @@
 _repo: The-Tremendous-Adventures-of-Major-Gahagan_1935
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
 - !lcc 'PR'
+- GITenberg
 title: The Tremendous Adventures of Major Gahagan
 url: http://www.gutenberg.org/ebooks/1935
